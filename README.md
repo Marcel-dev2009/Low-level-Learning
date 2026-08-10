@@ -1,6 +1,6 @@
 # C-Cal -  The Road to a Systems Aritect
 # Day 2:
-1: Understood CPU interacation with my normal C code 
+1: Understood CPU interacation with my normal C code \
 2: Ran terminal commands to output the assembly equivalent of my C code 
 3 : Wrote a program to calculate the Celcuis temperature and Print it's equivalent fahrenheit in a table
 4: Initilized git submodule repo to document my journey
