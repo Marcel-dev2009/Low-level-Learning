@@ -1,3 +1,6 @@
 [submodule "C-Cal-Engine"]
 	path = C-Cal-Engine
 	url = https://github.com/Marcel-dev2009/C-Cal-Engine.git
+[submodule "Guess-I-Guess"]
+	path = Guess-I-Guess
+	url = https://github.com/Marcel-dev2009/Guess-I-Guess.git
