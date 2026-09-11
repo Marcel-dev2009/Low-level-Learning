@@ -4,3 +4,6 @@
 [submodule "Guess-I-Guess"]
 	path = Guess-I-Guess
 	url = https://github.com/Marcel-dev2009/Guess-I-Guess.git
+[submodule "C-Contact-book"]
+	path = C-Contact-book
+	url = https://github.com/Marcel-dev2009/C-Contact-book.git
